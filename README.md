@@ -24,13 +24,6 @@ This project demonstrates a simple email sending service using Node.js, Express,
 
 ## Project Structure
 
-├── controllers
-│ └── sendMail_controller.js
-├── services
-│ └── sendEmail_service.js
-├── app.js
-└── README.md
-
 - **app.js**: The main application file that sets up the Express server.
 - **controllers/sendMail_controller.js**: The controller that handles the email sending request.
 - **services/sendEmail_service.js**: The service that interacts with Nodemailer to send the email.
